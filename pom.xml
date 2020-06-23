@@ -8,8 +8,8 @@
   <description>Generated project classcast</description>
 
   <properties>
-    <quarkus.version>1.4.1.Final</quarkus.version>
-    <kogito.version>0.10.1</kogito.version>
+    <quarkus.version>1.5.0.Final</quarkus.version>
+    <kogito.version>8.0.0-SNAPSHOT</kogito.version>
     <surefire.version>2.22.1</surefire.version> 
     <compiler.version>3.8.1</compiler.version>
 
