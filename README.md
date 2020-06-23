@@ -6,6 +6,8 @@ Requirements:
 * Configured $JAVA_HOME environment variable
 * Maven 3.6.2+
 
+![](src/main/resources/me/lazarotti/processes/service-task-test-svg.svg)
+
 To run this example:
 
 ```
